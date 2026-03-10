@@ -2,7 +2,7 @@
 
 Frequency-Decoupled Guidance (FDG) for ComfyUI and ComfyUI-LTXVideo.
 
-Based on the paper:
+Vibecoded based on the paper:
 > **"Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales"**
 > https://arxiv.org/abs/2506.19713
 
