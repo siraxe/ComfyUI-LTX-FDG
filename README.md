@@ -2,6 +2,10 @@
 
 Frequency-Decoupled Guidance (FDG) for ComfyUI and ComfyUI-LTXVideo.
 
+Credit to [dorpxam](https://github.com/dorpxam) for bringing it up.
+
+He might have more tested version soon [https://github.com/AkaneTendo25/musubi-tuner/issues/40#issuecomment-4033048905](https://github.com/AkaneTendo25/musubi-tuner/issues/40#issuecomment-4033048905)
+
 Vibecoded based on the paper:
 > **"Guidance in the Frequency Domain Enables High-Fidelity Sampling at Low CFG Scales"**
 > https://arxiv.org/abs/2506.19713
