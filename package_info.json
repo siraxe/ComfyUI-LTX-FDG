@@ -1,0 +1,27 @@
+{
+  "name": "ComfyUI-LTX-FDG",
+  "description": "Frequency-Decoupled Guidance (FDG) for ComfyUI and ComfyUI-LTXVideo",
+  "version": "1.0.0",
+  "author": "Based on paper by Sadat et al. (arXiv:2506.19713)",
+  "repository": "https://github.com/Lighttricks/ComfyUI-LTXVideo",
+  "license": "Same as ComfyUI",
+  "dependencies": [
+    "ComfyUI"
+  ],
+  "recommended_dependencies": [
+    "ComfyUI-LTXVideo"
+  ],
+  "nodes": [
+    {
+      "name": "FDGParameters",
+      "category": "lightricks/LTXV",
+      "description": "Configure Frequency-Decoupled Guidance parameters for LTXV/LTXAV models"
+    }
+  ],
+  "features": [
+    "Separate guidance scales for low and high frequency components",
+    "Better quality at low CFG scales",
+    "Reduced oversaturation and artifacts",
+    "Support for both video-only (LTXV) and video+audio (LTXAV) models"
+  ]
+}
