@@ -34,11 +34,6 @@ FDG improves upon standard Classifier-Free Guidance (CFG) by applying **separate
 
 3. The **FDGParameters** node will appear in the `lightricks/LTXV` category
 
-## Dependencies
-
-- **Required**: ComfyUI
-- **Recommended**: [ComfyUI-LTXVideo](https://github.com/Lighttricks/ComfyUI-LTXVideo) for full LTXV/LTXAV model support
-
 ## Usage
 
 ### Basic Workflow with ComfyUI-LTXVideo
